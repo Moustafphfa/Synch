@@ -1,0 +1,5 @@
+essentia==2.1b6.dev1389
+ftfy==6.3.1
+mutagen==1.47.0
+numpy==2.3.5
+pandas==2.3.3
